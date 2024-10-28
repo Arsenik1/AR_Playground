@@ -1,0 +1,1 @@
+C:\Users\salih\AR - Copy\Library\PramData\AndroidApplicationController\Cache\com.DefaultCompany.AR\gradle-project\unityLibrary\src\main\cpp\FramePacing\UnitySwappyWrapper.h

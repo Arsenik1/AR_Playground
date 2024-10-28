@@ -1,0 +1,1 @@
+C:\Users\salih\AR - Copy\Library\PramData\AndroidApplicationController\Cache\com.DefaultCompany.AR\gradle-project\unityLibrary\build\intermediates\cxx\Debug\4n3c4202\obj\arm64-v8a

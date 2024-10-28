@@ -1,0 +1,5 @@
+C:/Users/salih/AR - Copy/.utmp/Debug/4n3c4202/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/salih/AR - Copy/.utmp/Debug/4n3c4202/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/salih/AR - Copy/.utmp/Debug/4n3c4202/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/salih/AR - Copy/.utmp/Debug/4n3c4202/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/salih/AR - Copy/.utmp/Debug/4n3c4202/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

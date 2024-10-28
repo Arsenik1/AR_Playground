@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ARTEXT" size="1.000000 0.562500" />
+    <ImageTarget name="ARABAM" size="1.000000 0.625000" />
+    <ImageTarget name="usbc" size="1.000000 1.404741" />
+    <ImageTarget name="ARSALIH" size="1.000000 1.060305" />
+  </Tracking>
+</QCARConfig>
